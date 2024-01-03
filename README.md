@@ -8,3 +8,8 @@ I will update periodically.
 
 
 ![Kitchen Chaos](https://cdn.akamai.steamstatic.com/steam/apps/2275820/capsule_616x353.jpg?t=1679038906)
+
+Update: Progress so far:
+
+The player is now ready to move about.
+![Alt Text](images/your-image.jpg)

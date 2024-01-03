@@ -12,4 +12,4 @@ I will update periodically.
 Update: Progress so far:
 
 The player is now ready to move about.
-![Alt Text](images/your-image.jpg)
+![Player 1](Screenshot 2024-01-03 104603.png)

@@ -12,5 +12,6 @@ I will update periodically.
 Update: Progress so far:
 
 The player is now ready to move about.
+
 ![Player 1](https://github.com/MikePiotrowski/KitchenChaos/blob/master/Screenshot%202024-01-03%20104603.png)
 

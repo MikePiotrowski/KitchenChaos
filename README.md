@@ -12,6 +12,8 @@ I will update periodically.
 Update: Progress so far:
 
 The player is now ready to move about.
+Update January 05, 2024 added C# animation
+PlayerAnimator.cs
 
 ![Player 1](https://github.com/MikePiotrowski/KitchenChaos/blob/master/Screenshot%202024-01-03%20104603.png)
 
